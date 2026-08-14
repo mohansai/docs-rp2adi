@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-yx5tk1.hsteamid.com/sitemap.xml
